@@ -1,0 +1,6 @@
+[submodule "ng1-translate-app"]
+	path = ng1-translate-app
+	url = https://github.com/Ifycode-study/modern-ng-translate-app
+[submodule "ng2-password-generator-app"]
+	path = ng2-password-generator-app
+	url = https://github.com/Ifycode-study/modern-ng-password-generator-app

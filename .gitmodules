@@ -4,3 +4,6 @@
 [submodule "ng2-password-generator-app"]
 	path = ng2-password-generator-app
 	url = https://github.com/Ifycode-study/modern-ng-password-generator-app
+[submodule "ng3-card-app"]
+	path = ng3-card-app
+	url = https://github.com/Ifycode-study/modern-ng-card-app

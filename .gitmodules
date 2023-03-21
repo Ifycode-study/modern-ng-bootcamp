@@ -7,3 +7,6 @@
 [submodule "ng3-card-app"]
 	path = ng3-card-app
 	url = https://github.com/Ifycode-study/modern-ng-card-app
+[submodule "ng-exercise1-typing-game"]
+	path = ng-exercise1-typing-game
+	url = https://github.com/Ifycode-study/ng-exercise1-typing-game
